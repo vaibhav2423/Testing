@@ -9,6 +9,7 @@ public class git {
 		
 		public void m() {
 			System.out.println("method d");
+			System.out.println("method A");
 			}
 
 	}
