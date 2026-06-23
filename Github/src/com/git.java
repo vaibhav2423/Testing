@@ -3,7 +3,7 @@ package com;
 public class Git {
 	
 		
-		public static void main(String[] args) {
+	public void M1 {
 			System.out.println("Hello");
 		}
 	
